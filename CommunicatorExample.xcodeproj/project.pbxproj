@@ -22,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7DA2039E23E897A10075C1C6 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = SOURCE_ROOT; };
 		96B48C5C225D4F2B00DA2A4A /* CommunicatorKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CommunicatorKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		96B48C5F225D4F2B00DA2A4A /* Communicator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Communicator.h; sourceTree = "<group>"; };
 		96B48C60225D4F2B00DA2A4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -71,6 +72,7 @@
 		96B48C5E225D4F2B00DA2A4A /* CommunicatorKit */ = {
 			isa = PBXGroup;
 			children = (
+				7DA2039E23E897A10075C1C6 /* Package.swift */,
 				96B48C80225D74CE00DA2A4A /* Source */,
 				96B48C67225D4FD400DA2A4A /* Supporting Files */,
 			);
